@@ -1,0 +1,9 @@
+import tkinter
+from tkinter import *
+
+screen=Tk()
+screen.title("to-do-list")
+screen.geometry("650x650")
+screen.config(bg='#223441')
+screen.resizable(False,False)
+screen.mainloop()
